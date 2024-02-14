@@ -1,4 +1,4 @@
-# Medix App
+# Medix App [OCR(Azure),NLP(Entity Extraction),LLM(OpenAi)]
 
 Medix is an innovative app that assists users in identifying medical tablets, extracting important information, and providing usage recommendations through a conversational interface.
 
